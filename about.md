@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 I am an IT-specialist from Latvia. In the last few years I am working as a Multimedia developer in Fulda, Germany. There I am developing a learning software for the leading companies in the car manufacture and medicine industries.
 
