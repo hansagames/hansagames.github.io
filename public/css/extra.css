@@ -1,0 +1,31 @@
+.profile {
+
+}
+
+.profile img {
+  border-radius: 50%;
+}
+
+.icon-linkedin{
+  display: inline-block;
+  margin-right: 10px;
+  width: 30px;
+  height: 25px;
+  vertical-align: middle;
+}
+
+.icon > svg {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+  .icon > svg path {
+    fill: #828282;
+  }
+
+.legal {
+  font-size: 10px;
+  color: grey;
+}

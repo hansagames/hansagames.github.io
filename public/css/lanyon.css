@@ -560,29 +560,3 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
-
-.profile {
-
-}
-
-.profile img {
-  border-radius: 50%;
-}
-
-.icon-linkedin{
-  display: inline-block;
-  margin-right: 10px;
-  width: 30px;
-  height: 25px;
-  vertical-align: middle;
-}
-
-.icon > svg {
-  display: inline-block;
-  width: 25px;
-  height: 25px;
-  margin-right: 10px;
-  vertical-align: middle;
-}
-  .icon > svg path {
-    fill: #828282; }
