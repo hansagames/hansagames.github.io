@@ -1,6 +1,10 @@
 # Readme
 Source for hersir88.github.io powered by [lanyo](https://github.com/poole/lanyon) and [jekyll](http://jekyllrb.com)
 
+# Credits
+
+Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+
 ## Lanyo License
 
 Copyright (c) 2014 Mark Otto.
