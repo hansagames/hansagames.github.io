@@ -10,8 +10,8 @@ category: HaxeFlixel
 comments: true
 ---
 
-In this post I will explain how you can build interactive objects in HaxeFlixle.
-There are 2 great buttons in HaxeFlixel ([FlxButton][f19f733b] and [FlxUIButton][9a81c39a]), so if you need a standard button you can use them. As I wanted to use a texture from atlas for buttons, I couldn't use them, so I searched for alternative. Thanks to [HaxeFlixle community][f5fb6786] I got some other way to create buttons in HaxeFlixle. You can't add event listeners directly to FlxSprite, but you can use `flixel.plugin.MouseEventManager` for that.
+In this post I will explain how you can build interactive objects in HaxeFlixel.
+There are 2 great buttons in HaxeFlixel ([FlxButton][f19f733b] and [FlxUIButton][9a81c39a]), so if you need a standard button you can use them. As I wanted to use a texture from atlas for buttons, I couldn't use them, so I searched for alternative. Thanks to [HaxeFlixel community][f5fb6786] I got some other way to create buttons in HaxeFlixel. You can't add event listeners directly to FlxSprite, but you can use `flixel.plugin.MouseEventManager` for that.
 
 The basic example of using it would be:
 {% highlight haxe %}
