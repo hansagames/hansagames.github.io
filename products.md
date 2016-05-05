@@ -17,7 +17,7 @@ Features:
 <li>User friendly interface</li>
 <li>Achievements</li>
 <li>Play Zole against AI</li>
-<li>Challenge your friends in a multiplayer game using Game Center or Google Play</li>
+<li>Challenge your friends in a multiplayer game</li>
 <li>Compare your results with other game players in the Leaderboard</li>
 </ul>
 
@@ -35,4 +35,4 @@ Full version:</br>
 
 Lite version:</br>
 <a href="https://itunes.apple.com/us/app/zole-lite/id979915717?mt=8"><span>{% include apstore.svg %}</span></a></br>
-<a href='https://play.google.com/store/apps/details?id=lv.hansagames.zolelite&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=lv.hansagames.zolelite&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img style="width:155px;vertical-align: top;display: block;margin: 0 -8px;" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
