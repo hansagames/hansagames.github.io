@@ -10,10 +10,10 @@ comments: true
 
 Finally major update of the Zole is released to market. It includes new design, ton of new features and Android support for Lite version with Full version soon to come. :)
 
-[Zole Lite iOS][3fcc3c9e]
-[Zole Lite Android][d144c164]
+<p>[Zole Lite iOS][3fcc3c9e]</p>
+<p>[Zole Lite Android][d144c164]</p>
 
-[Zole iOS][a9f2443e]
+<p>[Zole iOS][a9f2443e]</p>
 
 Thank You.
 
