@@ -60,7 +60,7 @@ Now I will show you how I determine an atlas type based on devices info.
 
 The first of all you need to add a game info class that will hold data.
 
-{% highlight haxe %}
+```
 package;
 import lime.math.Rectangle;
 @:final
@@ -78,7 +78,7 @@ class GameInfo
 	public static inline var MIN_SCALE:Float = 1;
 	public static inline var MAX_SCALE:Float = 5;
 }
-{% endhighlight %}
+```
 
 Next you need to gather an information and calculate a scale and a game size. To do it you should use two methods: one for a size based scale and second for a DPI based scale. A width and a height you can get from `Lib.current.stage.stageWidth` and `Lib.current.stage.stageHeight`.
 
