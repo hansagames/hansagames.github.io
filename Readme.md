@@ -1,5 +1,5 @@
 # Readme
-Source for hersir88.github.io powered by [lanyo](https://github.com/poole/lanyon) and [jekyll](http://jekyllrb.com)
+Source for hansagames.github.io powered by [lanyo](https://github.com/poole/lanyon) and [jekyll](http://jekyllrb.com)
 
 # Credits
 
